@@ -1,0 +1,4 @@
+.homepageHeader {
+ background: rgb(119,47,203);
+ background: radial-gradient(circle, rgba(119,47,203,1) 0%, rgba(247,188,0,1) 100%);
+}

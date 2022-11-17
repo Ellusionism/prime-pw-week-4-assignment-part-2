@@ -4,16 +4,16 @@ body {
 }
 
 .carpic {
- max-width: 35%;
+ width: 35%;
  display: block;
  margin: auto;
- border-radius: 50%;
+ border-radius: 37.5%;
 }
 
 .homepageHeader {
  background-color:darksalmon;
  text-align: center;
- max-width: 80%;
+ width: 80%;
  display: block;
  margin: auto;
  padding:  2px 0;
@@ -30,11 +30,11 @@ body {
 }
 
 .nameInfo {
- max-width: 35%;
+ width: 35%;
 }
 
 .carInfo {
- max-width: 60%;
+ width: 60%;
 }
 
 

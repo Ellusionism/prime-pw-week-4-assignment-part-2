@@ -3,12 +3,6 @@ body {
  background-color:antiquewhite;
 }
 
-.carpic {
- width: 35%;
- display: block;
- margin: auto;
-}
-
 .homepageHeader {
  background-color:darksalmon;
  text-align: center;
@@ -28,7 +22,7 @@ body {
 }
 
 .nameInfo {
- width: 35%;
+ width: 25%;
 }
 
 .carInfo {

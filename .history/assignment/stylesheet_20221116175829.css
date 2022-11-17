@@ -3,16 +3,10 @@ body {
  background-color:antiquewhite;
 }
 
-.carpic {
- width: 35%;
- display: block;
- margin: auto;
-}
-
 .homepageHeader {
  background-color:darksalmon;
  text-align: center;
- width: 80%;
+ width: 75%;
  display: block;
  margin: auto;
  color: maroon;
@@ -20,23 +14,7 @@ body {
 
 .info {
  background-color:darksalmon;
- text-align: center;
- padding: 1%;
- display: block;
- margin: 1em auto;
+ padding: auto;
+ display: inline-flex;
  color: maroon;
 }
-
-.nameInfo {
- width: 35%;
-}
-
-.carInfo {
- width: 60%;
-}
-
-
-
-
-
-

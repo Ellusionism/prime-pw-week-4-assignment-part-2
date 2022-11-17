@@ -9,7 +9,7 @@ body {
 }
 
 .carInfo {
- max-width: 50%;
+ max-width: 60%;
 }
 
 .cont {
@@ -18,12 +18,12 @@ body {
  margin: 1em auto;
 }
 
-.homepageHeader {
+.hmpgHeader {
  max-width: 80%;
  padding:  2px 0;
 }
 
-.homepageFooter {
+.hmpgFooter {
  max-width: 40%;
 }
 

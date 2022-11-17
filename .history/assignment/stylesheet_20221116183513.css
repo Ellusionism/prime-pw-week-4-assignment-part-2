@@ -1,0 +1,46 @@
+body {
+ font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ background-color:antiquewhite;
+}
+
+.carpic {
+ max-width: 35%;
+ display: block;
+ margin: auto;
+ border-radius: 50%;
+}
+
+.homepageHeader {
+ background-color:darksalmon;
+ text-align: center;
+ max-width: 80%;
+ display: block;
+ margin: auto;
+ padding:  2px 0;
+ color: maroon;
+}
+
+.
+
+.info {
+ background-color:darksalmon;
+ text-align: center;
+ padding: 1%;
+ display: block;
+ margin: 1em auto;
+ color: maroon;
+}
+
+.nameInfo {
+ max-width: 35%;
+}
+
+.carInfo {
+ max-width: 60%;
+}
+
+
+
+
+
+

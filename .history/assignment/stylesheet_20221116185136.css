@@ -3,7 +3,7 @@ body {
  background-color:antiquewhite;
 }
 
-.carimg {
+.carpic {
  max-width: 35%;
  border-radius: 50%;
 }
@@ -24,7 +24,8 @@ body {
 }
 
 .homepageFooter {
- max-width: 40%;
+ max-width: 35%;
+ padding: 1%;
 }
 
 .info {
@@ -37,5 +38,5 @@ body {
 }
 
 .nameInfo {
- max-width: 25%;
+ max-width: 35%;
 }

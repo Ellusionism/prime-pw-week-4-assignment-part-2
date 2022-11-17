@@ -3,7 +3,7 @@ body {
  background-color:antiquewhite;
 }
 
-.carimg {
+.carpic {
  max-width: 35%;
  border-radius: 50%;
 }
@@ -13,22 +13,32 @@ body {
 }
 
 .cont {
- background-color:darksalmon;
+ 
  display: block;
- margin: 1em auto;
+ margin: auto;
 }
 
 .homepageHeader {
+ background-color:darksalmon;
+ text-align: center;
  max-width: 80%;
+ display: block;
+ margin: auto;
  padding:  2px 0;
+ color: maroon;
 }
 
 .homepageFooter {
- max-width: 40%;
+ color: maroon;
+ text-align: center;
 }
 
 .info {
+ 
+ text-align: center;
  padding: 1%;
+ display: block;
+ margin: 1em auto;
 }
 
 .text {
@@ -37,5 +47,5 @@ body {
 }
 
 .nameInfo {
- max-width: 25%;
+ max-width: 35%;
 }
